@@ -99,6 +99,11 @@
 			attributes = {
 				LastUpgradeCheck = 0720;
 				ORGANIZATIONNAME = codeispoetry.ru;
+				TargetAttributes = {
+					39FC9E101C5C7CEE00D130E5 = {
+						LastSwiftMigration = 0800;
+					};
+				};
 			};
 			buildConfigurationList = 39FC9E0B1C5C7CEE00D130E5 /* Build configuration list for PBXProject "UIScrollView_InfiniteScroll" */;
 			compatibilityVersion = "Xcode 3.2";
@@ -241,6 +246,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = "ru.codeispoetry.Infinite-Scroll";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
+				SWIFT_VERSION = 2.3;
 			};
 			name = Debug;
 		};
@@ -258,6 +264,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = "ru.codeispoetry.Infinite-Scroll";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
+				SWIFT_VERSION = 2.3;
 			};
 			name = Release;
 		};
