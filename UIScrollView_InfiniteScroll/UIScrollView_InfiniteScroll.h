@@ -12,4 +12,4 @@ FOUNDATION_EXPORT double UIScrollView_InfiniteScrollVersionNumber;
 FOUNDATION_EXPORT const unsigned char UIScrollView_InfiniteScrollVersionString[];
 
 
-#import "UIScrollView+InfiniteScroll.h"
+#import <UIScrollView_InfiniteScroll/UIScrollView+InfiniteScroll.h>
