@@ -101,7 +101,7 @@
 				ORGANIZATIONNAME = codeispoetry.ru;
 				TargetAttributes = {
 					39FC9E101C5C7CEE00D130E5 = {
-						LastSwiftMigration = 0800;
+						LastSwiftMigration = 0810;
 					};
 				};
 			};
@@ -251,7 +251,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = "ru.codeispoetry.Infinite-Scroll";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
-				SWIFT_VERSION = 2.3;
+				SWIFT_VERSION = 3.0;
 			};
 			name = Debug;
 		};
@@ -270,7 +270,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = "ru.codeispoetry.Infinite-Scroll";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
-				SWIFT_VERSION = 2.3;
+				SWIFT_VERSION = 3.0;
 			};
 			name = Release;
 		};
